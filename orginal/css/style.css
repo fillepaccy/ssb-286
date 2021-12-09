@@ -1,0 +1,37 @@
+.registerdform{
+    background-color: rgba(28, 224, 21, 0.918);
+    width: 800px;
+    margin-top: 100px;
+    margin-left: 250px;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 5px 5px 5px 5px white;
+    
+
+}
+.inpt{
+    margin-left: 250px;
+}
+.buttons{
+    
+    background-color:rgb(233, 227, 233);
+    border-radius: 10px;
+    text-align: center;
+    width: 400px;
+    margin-left: 180px;
+    padding: 2px;
+
+}
+.htitle{
+    text-align: center;
+    text-decoration: double;
+    font-size: large;
+    color: blue;
+  
+}
+.studentReportsdata{
+    width:400px;
+	height:auto;
+	background-color:black;
+	color:white;
+}
